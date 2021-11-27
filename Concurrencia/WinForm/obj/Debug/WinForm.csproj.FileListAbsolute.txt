@@ -1,0 +1,10 @@
+D:\ESTUDIOS\UDEMY\Sincronizacion\task_hilos\Concurrencia\WinForm\bin\Debug\WinForm.exe.config
+D:\ESTUDIOS\UDEMY\Sincronizacion\task_hilos\Concurrencia\WinForm\bin\Debug\WinForm.exe
+D:\ESTUDIOS\UDEMY\Sincronizacion\task_hilos\Concurrencia\WinForm\bin\Debug\WinForm.pdb
+D:\ESTUDIOS\UDEMY\Sincronizacion\task_hilos\Concurrencia\WinForm\obj\Debug\WinForm.csproj.AssemblyReference.cache
+D:\ESTUDIOS\UDEMY\Sincronizacion\task_hilos\Concurrencia\WinForm\obj\Debug\WinForm.Form1.resources
+D:\ESTUDIOS\UDEMY\Sincronizacion\task_hilos\Concurrencia\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+D:\ESTUDIOS\UDEMY\Sincronizacion\task_hilos\Concurrencia\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+D:\ESTUDIOS\UDEMY\Sincronizacion\task_hilos\Concurrencia\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+D:\ESTUDIOS\UDEMY\Sincronizacion\task_hilos\Concurrencia\WinForm\obj\Debug\WinForm.exe
+D:\ESTUDIOS\UDEMY\Sincronizacion\task_hilos\Concurrencia\WinForm\obj\Debug\WinForm.pdb
