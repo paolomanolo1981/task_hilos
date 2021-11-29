@@ -11,7 +11,7 @@ namespace WebAPI.Controllers
     public class SaludosController:ControllerBase
     {
         [HttpGet("{nombre}")]
-        public ActionResult<string>ObtenerSaludo(string nombre)
+        public ActionResult<string>ObtenerSaludoxxxxx(string nombre)
         {
             return $"Hola {nombre}!";
         }

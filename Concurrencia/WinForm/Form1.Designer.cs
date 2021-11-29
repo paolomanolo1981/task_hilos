@@ -32,12 +32,14 @@ namespace WinForm
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.btnIniciar = new System.Windows.Forms.Button();
             this.loadinggif = new System.Windows.Forms.PictureBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.txtInput = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.loadinggif)).BeginInit();
             this.SuspendLayout();
             // 
             // btnIniciar
             // 
-            this.btnIniciar.Location = new System.Drawing.Point(58, 28);
+            this.btnIniciar.Location = new System.Drawing.Point(49, 222);
             this.btnIniciar.Name = "btnIniciar";
             this.btnIniciar.Size = new System.Drawing.Size(198, 23);
             this.btnIniciar.TabIndex = 0;
@@ -56,17 +58,36 @@ namespace WinForm
             this.loadinggif.TabStop = false;
             this.loadinggif.Visible = false;
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(89, 31);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(44, 13);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "Nombre";
+            // 
+            // txtInput
+            // 
+            this.txtInput.Location = new System.Drawing.Point(164, 31);
+            this.txtInput.Name = "txtInput";
+            this.txtInput.Size = new System.Drawing.Size(344, 20);
+            this.txtInput.TabIndex = 3;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.txtInput);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.loadinggif);
             this.Controls.Add(this.btnIniciar);
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.loadinggif)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -74,6 +95,8 @@ namespace WinForm
 
         private System.Windows.Forms.Button btnIniciar;
         private System.Windows.Forms.PictureBox loadinggif;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox txtInput;
     }
 }
 
